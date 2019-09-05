@@ -13,6 +13,7 @@ Set on an 8 x 8 board, the guest armies of the Dynasty and the Shogunate will ha
 
 Set on a 9 x 9 board, this board is themed after shogi. And as such, the guest armies of the Kingdom and the Dynasty will gain access to the gamechanging drop rule featured in shogi and crazyhouse variants. This will be developed after K&G-West.
 
+## Other
 There will be no variant set on the Chinese chess board because it does not accomodate diagonal pieces as well, nor does the restrictions of the palace and river translate well for the other games. Sorry xiangqi fans! However, if anyone has any good ideas, please feel free to add any input!
 
 For more information on each variant, please see their respective pages in their folders.
